@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Live Transcribe AI</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="transcription_status_ready">Ready to record</string>
+    <string name="transcription_status_listening">Listening…</string>
+    <string name="transcription_status_connected">Connected</string>
+    <string name="smart_transcription_title">Gemini SMART Mode</string>
+    <string name="standard_transcription_title">Standard Transcription</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
+    <string name="share_transcript">Share Transcript</string>
+    <string name="export_txt">Export as TXT</string>
+    <string name="export_markdown">Export as Markdown</string>
+    <string name="clear_transcript">Clear Transcript</string>
+    <string name="saved_transcripts">Saved Transcripts</string>
+    <string name="settings">Settings</string>
+</resources>

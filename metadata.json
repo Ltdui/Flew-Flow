@@ -1,0 +1,6 @@
+{
+  "name": "Live Transcribe AI",
+  "description": "Real-time AI voice transcription and smart grammar formatting powered by Gemini Live API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

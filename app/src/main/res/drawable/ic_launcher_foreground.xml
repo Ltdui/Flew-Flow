@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center group scaled within safe-zone (bounds: ~26 to ~82) -->
+    <!-- Sound wave left outer -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M31,44 A24,24 0 0,0 31,64 L34,62 A20,20 0 0,1 34,46 Z" />
+    <!-- Sound wave right outer -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M77,44 L74,46 A20,20 0 0,1 74,62 L77,64 A24,24 0 0,0 77,44 Z" />
+    <!-- Sound wave left inner -->
+    <path
+        android:fillColor="#A5B4FC"
+        android:pathData="M38,47 A16,16 0 0,0 38,61 L41,59 A12,12 0 0,1 41,49 Z" />
+    <!-- Sound wave right inner -->
+    <path
+        android:fillColor="#A5B4FC"
+        android:pathData="M70,47 L67,49 A12,12 0 0,1 67,59 L70,61 A16,16 0 0,0 70,47 Z" />
+    <!-- Microphone capsule (pill) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,32 C50.1,32 47,35.1 47,39 L47,55 C47,58.9 50.1,62 54,62 C57.9,62 61,58.9 61,55 L61,39 C61,35.1 57.9,32 54,32 Z" />
+    <!-- Microphone cradle arc -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,53 C44,59 48.5,63.9 54,64.4 C59.5,63.9 64,59 64,53 L66,53 C66,60.1 60.5,65.9 55.5,66.4 L55.5,72 L58.5,72 L58.5,74 L49.5,74 L49.5,72 L52.5,72 L52.5,66.4 C47.5,65.9 42,60.1 42,53 Z" />
+</vector>
